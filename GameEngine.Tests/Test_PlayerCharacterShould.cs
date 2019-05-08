@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace GameEngine.Tests
 {
     [TestClass]
-    public class PlayerCharacterShould
+    public class Test_PlayerCharacterShould
     {
         //verifico che il parametro is Noob è true quando creo un nuovo PlayerCharacter
         [TestMethod]
