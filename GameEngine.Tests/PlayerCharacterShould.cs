@@ -11,7 +11,7 @@ namespace GameEngine.Tests
         {
             var sut = new PlayerCharacter();
 
-            Assert.IsTrue(sut.IsNoob);
+            Assert.IsFalse(sut.IsNoob);
         }
     }
 }
