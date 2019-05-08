@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bonsc\\Documents\\Sviluppo\\DEMO-MSTEST\\02\\demos\\after\\02FirstTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\bonsc\\Documents\\GitHub\\02FirstTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
       "projectName": "GameEngine.Tests",
-      "projectPath": "C:\\Users\\bonsc\\Documents\\Sviluppo\\DEMO-MSTEST\\02\\demos\\after\\02FirstTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
+      "projectPath": "C:\\Users\\bonsc\\Documents\\GitHub\\02FirstTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
       "packagesPath": "C:\\Users\\bonsc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bonsc\\Documents\\Sviluppo\\DEMO-MSTEST\\02\\demos\\after\\02FirstTest\\GameEngine.Tests\\obj\\",
+      "outputPath": "C:\\Users\\bonsc\\Documents\\GitHub\\02FirstTest\\GameEngine.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5842,8 +5842,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\bonsc\\Documents\\Sviluppo\\DEMO-MSTEST\\02\\demos\\after\\02FirstTest\\GameEngine\\GameEngine.csproj": {
-              "projectPath": "C:\\Users\\bonsc\\Documents\\Sviluppo\\DEMO-MSTEST\\02\\demos\\after\\02FirstTest\\GameEngine\\GameEngine.csproj"
+            "C:\\Users\\bonsc\\Documents\\GitHub\\02FirstTest\\GameEngine\\GameEngine.csproj": {
+              "projectPath": "C:\\Users\\bonsc\\Documents\\GitHub\\02FirstTest\\GameEngine\\GameEngine.csproj"
             }
           }
         }
